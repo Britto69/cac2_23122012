@@ -1,0 +1,192 @@
+#title{
+    background-color:#39736c;
+}
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.nav-logo{
+    position: relative;
+    bottom: 12px;
+    left: 10px;
+    height: 45px;
+}
+.nav-item{
+    margin: auto 30px;
+    color: #fff;
+}
+.images{
+    width: 550px;
+    height: 500px;
+    
+    
+    border-radius: 20px;
+    border-top-left-radius: 20px
+}
+.navbar{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.row{
+    padding-bottom: 50px;
+
+}
+.tag{
+    position: relative;
+    top: 140px;
+    color:#fff;
+    font-weight: 900;
+}
+.description{
+    font-weight: lighter;
+    
+}
+h1{
+    font-weight: bolder;
+}
+
+ 
+/* content-1*/ 
+
+#content-1{
+    background-color: #f2653b;
+}
+
+.con-e{
+    text-align: center;
+}
+.con-g{
+    text-align: center;
+    position: relative;
+    bottom: 18px;
+    right: 18px;
+}
+.icon{
+        position: relative;
+        left: 370px;
+}
+.description-1{
+    font-weight: lighter;
+    margin: 20%;
+    position: relative;
+    bottom: 90px;
+    left: 100px;
+}
+
+/*content-2*/
+#content-2{
+    background-color: #f8ebde;
+}
+.con-2{
+    color: #e4b368;
+    position: relative;
+    left: 70px;
+    top: 170px;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+.con-2-1{
+    color: #e4b368;
+    position: relative;
+    left: 70px;
+    top: 150px;
+    font-weight: bolder;
+    margin-right: 30px;
+}
+.description-2{
+    color: #e4b368;
+    margin: 20%;
+    font-weight: bold;
+    position: relative;
+    top: 70px;
+    left: 10px;
+}
+.icon-2{
+         position: relative;
+         top: 170px;
+         left: 240px;
+}
+
+/*content-3*/
+ #content-3{
+          background-color: #ddd7eb;
+ }
+ .tag-3{
+    position: relative;
+    left: 50px;
+ }
+.con-3{
+    color: #333 ;
+    position: relative;
+    top: 150px;
+}
+.con-3-i{
+    color: #333;
+    position: relative;
+    top: 130px;
+}
+.description-3{
+    color: #333 ;
+    margin: 20%;
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+}
+.icon-3{
+    position: relative;
+    top: 150px;
+    left: 200px;
+}
+/*footer*/
+#footer{
+    background-color: #23222c;
+}
+
+.com{
+     position: relative;
+     left: 45px;
+     top: 20px;
+     font-weight: bold;
+     font-size: large;
+}
+h3{
+    color: hsla(0, 0%, 100%, 0.35);
+    position: relative;
+    left: 45px;
+    top: 20px;
+    font-weight: bold;
+    font-size: large;
+
+}
+p{
+ color: #fff;   
+}
+.p-f{
+    margin: auto 40%;
+    position: relative;
+    right: 150px;
+    top: 20px;
+}
+.fc{
+    position: relative;
+    top: 20px;
+    left: 45px;
+}
+
+.email{
+    position: relative;
+    
+    left: 45px;
+}
+.c-logo{
+    position: relative;
+    left: 45px;
+    top: 10px;
+    padding: 10px;
+}
+.term{
+    text-align: center;
+    font-size: small;
+    padding: 50px;
+}
